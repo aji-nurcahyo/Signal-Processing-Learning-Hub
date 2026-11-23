@@ -1,0 +1,13 @@
+# Signal Processing Learning Hub — Robots Exclusion Protocol
+# Homebase: Teknik Telekomunikasi, Institut Teknologi Sumatera (ITERA)
+# Payung Riset: Intelligent Sensing, Vision and Wireless Systems (ISVWS) 2026–2040
+
+User-agent: *
+Allow: /
+Allow: /slides/
+Allow: /pdf/lessons/c01_lesson_01.pdf
+Disallow: /pdf/chapters/
+Disallow: /pdf/levels/
+Disallow: /pdf/preview/
+
+Sitemap: https://itera-telecom.github.io/signal-processing-hub/sitemap.xml
